@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Actividad08</title> 
+</head> 
+<style> 
+	#h1-1 { background-color: #000000; padding: 30px;} 
+    	#h1-2 { background-color: #cf4b89; padding: 25px;}
+</style>
+
+<body> 
+
+    <center> 
+
+        <h1 id="h1-1"> 
+
+            <p style="color: rgb(255, 255, 255);"> Práctica 3. </h1></p> 
+
+    </center>
+
+    <h1 id="h1-2">Poema romantico dos hermanos.</h1>
+    <img src="12.jpg" alt="imagen de hermanos" style="width: 100%; height: 50%;" />
+  
+    <center>
+
+        <pre>
+<!--se utiliza para mostrar texto preformateado es decir con saltos de linea-->
+
+        <font color="red">Podra nublarse el Sol eternmente,</font>
+	<!-- establece el color del texto en rojo y muestra el texto-->
+        <font color="Orange">Podra secarse en un istante el Mar,</font>
+	<!-- establece el color del texto en rojo y muestra el texto-->
+        <font color="Yellow ">Mas no podre vivir si estas ausente,</font>
+	<!-- establece el color del texto en rojo y muestra el texto-->
+        <font color="Green">Me morire si me dejas de Amar.</font>
+        <font color="Yellow ">Mas no podre vivir si estas ausente,</font>
+        <font color="Blue">Todo sucedera, podra la muerte,</font>
+        <font color="Yellow ">Mas no podre vivir si estas ausente,</font>
+        <font color="Pink">Cubrirme con su funebre crespon,</font>
+        <font color="Violet">Pues no quiero vivir si no he de verte,</font>
+        <font color="Yellow ">Mas no podre vivir si estas ausente,</font>
+        <font color="Maroon"> Si me faltara la llama de tu amor.</font>
+    </pre>
+<!--cierra la sección de texto preformateado.-->
+    </center>
+<!--cierra el contenido centrado.-->
+</body>
+<!-- cierra el cuerpo del documento HTML.-->
+</body>
+</html><!--cierra el documento HTML completo.-->
